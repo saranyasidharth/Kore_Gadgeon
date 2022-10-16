@@ -1,0 +1,56 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}.box{
+    background-color:white;
+
+
+    border: 8px solid rgb(202, 201, 201,.8);
+    border-bottom-color: rgb(113, 111, 111);
+    width: 400px;
+    height: 550px;
+    margin-top: 100px;
+    overflow: hidden;
+    position: absolute;
+    margin-left: 1050px;
+   position: absolute;
+
+
+
+}.btn{
+   
+    padding: 10px 20px 10px;
+    margin-top: 470px;
+    position: absolute;
+    left: 10px;
+}
+p{
+    position: absolute;
+    margin-top: 65%;
+    color: gray;
+}
+h2{
+    color: rgb(245, 100, 48);
+    position: absolute;
+    margin-top: 50%;
+    letter-spacing:5px;
+    font-size:40px;
+     border-bottom: 3px dotted rgb(67, 66, 6,.3);
+    text-decoration: dotted;
+
+}
+
+.logo{
+    height: 100px;
+}
+.fork{
+    width: 280px;
+    border-radius: 280px;
+    height: 280px;
+    margin-top: 50px;
+    position:absolute;
+    margin-left: 10px;
+    
+
+}
