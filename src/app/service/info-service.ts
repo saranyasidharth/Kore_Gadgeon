@@ -1,7 +1,7 @@
 export class myservice{
     onclickbtn(title:String)
     {
-        alert("hi "+title); 
+        alert("Hi "+title); 
 
     }
 }
